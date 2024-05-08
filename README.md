@@ -21,7 +21,7 @@
 <div align="center">
 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/appLogo.png" alt="Logo" width="200" height="100">
+    <img src="assets/Logo.png" alt="Logo" width="200" height="200">
   </a> 
 
 
@@ -44,28 +44,28 @@
 ## About The Project
 
 <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/Change_your_password.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Change_your_password.JPEG" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/Edit_profile.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Edit_profile.JPEG" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/Event_Schedule.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Event_Schedule.JPEG" alt="Logo" width="200" height="400">
   </a>
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/Log_out.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Log_out.JPEG" alt="Logo" width="200" height="400">
   </a>
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/Profile.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Profile.JPEG" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/Redister_Event.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Redister_Event.JPEG" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/Redister_Event.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Redister_Event.JPEG" alt="Logo" width="200" height="400">
   </a>
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/home_page.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/home_page.JPEG" alt="Logo" width="200" height="400">
   </a>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
