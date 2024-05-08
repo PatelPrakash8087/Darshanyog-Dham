@@ -135,27 +135,16 @@ With Darshan Yog Journey, users can cultivate a deeper connection with themselve
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Educational Benefit
 
-- `Introduction to Coding Concepts`: Curtain Avenue introduces users to fundamental coding concepts like conditionals and functions through a visual representation of code blocks, aiding in a hands-on learning experience.
-  
-- `Enhanced Logical Thinking`: Users are challenged to think logically and strategically within the virtual city environment, fostering critical thinking skills and efficient problem-solving approaches.
-  
-- `Debugging Skills Development`: The application equips users with the ability to identify and rectify errors, emphasizing the importance of precise coding and enhancing their debugging capabilities.
-  
-- `Fostering Computational Thinking`: Curtain Avenue encourages the development of computational thinking skills by guiding users to break down complex tasks into manageable steps, promoting structured problem-solving approaches.
-  
-- `Problem-Solving Enhancement`: Through overcoming obstacles and challenges within the application, users can enhance their problem-solving skills, fostering resilience and creativity in tackling diverse coding scenarios.
 
 
 ## Target Audience
 
-Curtain Avenue is crafted for individuals interested in exploring coding concepts within a captivating virtual environment. This Flutter application with a Firebase backend is ideal for beginners in coding, offering an engaging platform to learn and practice programming skills.
+"Darshan Yog is meticulously designed for individuals intrigued by coding concepts, offering an immersive virtual environment powered by Flutter technology and a robust Firebase backend. Geared towards coding novices, this application provides an enchanting platform to initiate and hone programming skills.
 
-The application targets users who are eager to delve into the world of coding, making it suitable for students, hobbyists, and anyone looking to enhance their coding proficiency. Curtain Avenue serves as a valuable resource for those seeking to grasp block-based programming principles in a visually stimulating and interactive manner.
+Ideal for students, hobbyists, and anyone with a curiosity for coding, Darshan Yog offers a gateway to the coding realm, fostering engagement and skill development. It serves as a pivotal resource for grasping block-based programming principles, presented in an interactive and visually captivating format.
 
-By combining the allure of a virtual city exploration with coding challenges, Curtain Avenue aims to inspire a love for coding and technology, fostering a solid understanding of programming fundamentals while catering to the aspirations of budding developers and tech enthusiasts alike.
-
+By amalgamating the allure of virtual exploration with coding challenges, Darshan Yog endeavors to ignite a passion for coding and technology. Through this unique blend, users embark on a journey to comprehend programming fundamentals, catering to the aspirations of budding developers and tech enthusiasts alike."
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
