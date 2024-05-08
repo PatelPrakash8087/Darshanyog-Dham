@@ -103,17 +103,17 @@ With Darshan Yog Journey, users can cultivate a deeper connection with themselve
 
 ### Features
 
-1. `knowledge`:
+1. `knowledge`: This feature provides access to a repository of information on various topics. It includes articles, explanations, and answers to frequently asked questions. 
  
-2. `Schedules`:
+2. `Schedules`:  The Schedules feature helps users organize their time by allowing them to create, manage, and track schedules for various activities or events.
  
-3. `Gallery`:
+3. `Gallery`: The Gallery feature provides a platform for users to upload, view, and share images or multimedia content.
  
-4. `Activities`:
+4. `Activities`:  Activities feature offers users opportunities to engage in various tasks, challenges, or events either individually or collaboratively.
  
-5. `News`:
+5. `News`:  The News feature delivers timely updates on current events, trends, and developments from around the world.
  
-6. `Branches`:
+6. `Branches`: The Branches feature provides information about physical locations or branches of a business, organization, or institution.
 
 <!--
 ### Installation
