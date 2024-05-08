@@ -93,11 +93,13 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Curtain Avenue is an innovative Flutter-based mobile application designed to introduce users to the world of coding through a unique interactive experience. In this application, users will embark on a journey as they navigate through a virtual city, controlling the movement of a character through a series of challenges.
+Darshan Yog Journey is an immersive Flutter-based mobile application that invites users to embark on a spiritual journey through a serene virtual sanctuary. Within this app, users will guide a yog character through various meditative challenges and yoga practices, fostering inner peace and self-discovery along the way.
 
-The core concept of Curtain Avenue revolves around using a block-based programming system to plan the character's route. Instead of traditional lines of code, users will use a drag-and-drop system that employs visual blocks of statements, making coding concepts more accessible and engaging for beginners.
+The essence of Darshan Yog Journey lies in its utilization of a block-based programming system, akin to yoga asanas, to navigate the character through tranquil landscapes and mindfulness exercises. Through intuitive drag-and-drop actions, users will seamlessly orchestrate the yog movements, mirroring the flow of energy and focus in real-life yoga practice.
 
-The application utilizes Firebase as its backend, providing a seamless integration of data storage and real-time updates. This allows for a robust and scalable infrastructure to support the game's features and user interactions.
+Powered by Firebase, Darshan Yog Journey offers a seamless integration of user progress and community engagement. Users can store their meditation milestones, track their spiritual growth, and connect with fellow practitioners for shared insights and encouragement, creating a supportive ecosystem for personal development.
+
+With Darshan Yog Journey, users can cultivate a deeper connection with themselves and the universe, fostering harmony between mind, body, and spirit through the transformative power of yoga and meditation.
 
 ### Features
 
