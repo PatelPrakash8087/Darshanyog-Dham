@@ -103,16 +103,17 @@ With Darshan Yog Journey, users can cultivate a deeper connection with themselve
 
 ### Features
 
-1. `Create Order`: User can add their details like name , number and Etc. and get types to select Curtains.
-
-2. `Users & Roles`: In this feature Admin can add their membes and define theirs roles with members details.
-
-3. `Notes`: This feature for daily work details and only admin can delete that or in 24hr it is auto delete. 
-
-4. `Profile`: The profile Section hold that members details and their bank details also with logout feature.
+1. `knowledge`:
  
-5. `All Order`: This is main feature of our app in this feature Admin can seen their all client details client work & we also have an call feature and Edit feature for edit clients Curtains Details 
-   we can also get client project detail in PDF form and we can download and share it in app
+2. `Schedules`:
+ 
+3. `Gallery`:
+ 
+4. `Activities`:
+ 
+5. `News`:
+ 
+6. `Branches`:
 
 <!--
 ### Installation
